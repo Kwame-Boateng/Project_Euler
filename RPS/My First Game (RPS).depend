@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1448422780 source:c:\users\kwame\desktop\my programmin box\c++\my first game (rps)\main.cpp
+	<iostream>
+	<array>
+	<vector>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<algorithm>
+

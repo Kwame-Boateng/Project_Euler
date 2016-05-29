@@ -1,0 +1,27 @@
+Rules of the Game:
+First the computer will ask you to input a number from 1 - 3
+and a the the computer will also select a number from 1 - 3
+1 = Rock
+2 = Paper
+3 = Scissors
+
+Based on the number you select and the number the computer selects
+these will be the results
+
+Rock and Rock: Its a  tigh. No one wins
+Rock and Paper: Paper Wins
+Rock and Scissors: Rock wins. 
+Paper and Paper: Its a  tigh. No one wins
+Paper and Scissors: Scissors win
+Scissors and scissors: Its a  tigh. No one wins.
+
+A win is 3 points
+A loss is 1 point
+And a tigh is 0 point
+
+NB: If you win on rock against scissors your chances will be increase else your chance will be decreased
+
+I hope you enjoy this games. Its fun and easy.
+
+
+
