@@ -1,0 +1,27 @@
+// Example program
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+  int first = 1;
+  int second = 2;
+  int next = (first + second);
+  int sum = 2;
+  int limit = 4000000;
+  
+  while (sum <= limit)
+  {
+    next = (first + second);
+    first = second;
+    second = next;
+    if ((next % 2) == 0)
+    {
+        sum += next;
+    }
+    //cout << next << endl;
+  }
+  cout << sum << endl;
+  return 0;
+}
